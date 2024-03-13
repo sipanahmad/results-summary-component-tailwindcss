@@ -26,8 +26,8 @@ Desktop Design
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
-- Live Site URL: [Demo](https://qr-code-component-tailwindcss.vercel.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/results-summary-component-using-tailwindcss-ck5DtdRoNM)
+- Live Site URL: [Demo](https://results-summary-component-tailwindcss.vercel.app/)
 
 ## My process
 
